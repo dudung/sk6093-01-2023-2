@@ -1,7 +1,7 @@
 # sk6093-01-2023-2
 Independent Research in Computational Science 3 course 01 class in 2023-2 semester Feb-May 2024
 
-+ `03-apr-2024` Midterm (task, [lms](https://edunex.itb.ac.id/courses/58125/preview/246348))
++ `03-apr-2024` Midterm ([task](https://github.com/dudung/sk6093-01-2023-2/issues/8), [lms](https://edunex.itb.ac.id/courses/58125/preview/246348))
 + `27-mar-2024` Create issue for encountered problem (s) ([task](https://github.com/dudung/sk6093-01-2023-2/issues/7), [lms](https://edunex.itb.ac.id/courses/58125/preview/244842))
 + `20-mar-2024` Update repository with some elements ([task](https://github.com/dudung/sk6093-01-2023-2/issues/6), [lms](https://edunex.itb.ac.id/courses/58125/preview/242686))
 + `14-mar-2024` Problems ([task](https://github.com/dudung/sk6093-01-2023-2/issues/5), [lms](https://edunex.itb.ac.id/courses/58125/preview/240923)).
